@@ -1,0 +1,5 @@
+1. Kuber, поднять сервис
+2. Docker сделать образы
+3. gitlab ci/cd
+4. network
+5. Linux/Unix
